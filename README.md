@@ -33,8 +33,6 @@ Best viewed on GitHub Pages
 - [TrailBlaze Bake At Home Energy Bars](recipes/193_TrailBlaze-Bake-At-Home-Energy-Bars.html)
 
 ## Soups, Stews & Chili
-- [Beef Stew](recipes/53_Beef-Stew.html)
-- [Buffalo Chicken Chili](recipes/268_Buffalo-Chicken-Chili.html)
 - [Clam Chowder New England Style](recipes/112_Clam-Chowder-New-England-Style.html)
 - [Cream of Mushroom Soup](recipes/194_Cream-of-Mushroom-Soup.html)
 - [Matzo Matzah Ball Soup](recipes/177_Matzo-Matzah-Ball-Soup.html)
@@ -53,9 +51,7 @@ Best viewed on GitHub Pages
 - [Tuna Noodle Casserole](recipes/62_Tuna-Noodle-Casserole.html)
 
 ## Poultry
-- [Chicken  Mushroom Marsala](recipes/59_Chicken--Mushroom-Marsala.html)
 - [Chicken Mushroom Marsala](recipes/59_Chicken-Mushroom-Marsala.html)
-- [Chicken Tikka Masala](recipes/213_Chicken-Tikka-Masala.html)
 - [Classic Roast Turkey](recipes/74_Classic-Roast-Turkey.html)
 - [Grilled Skinless Chicken Breast](recipes/6_Grilled-Skinless-Chicken-Breast.html)
 - [Lime Marinated Grilled Chicken](recipes/124_Lime-Marinated-Grilled-Chicken.html)
@@ -70,7 +66,6 @@ Best viewed on GitHub Pages
 - [Grilled Pork Chops](recipes/20_Grilled-Pork-Chops.html)
 - [Grilled Porterhouse or T Bone Steak](recipes/31_Grilled-Porterhouse-or-T-Bone-Steak.html)
 - [Osso Buco](recipes/200_Osso-Buco.html)
-- [Oven Baked Spare Ribs   Two Ways](recipes/45_Oven-Baked-Spare-Ribs---Two-Ways.html)
 - [Oven Baked Spare Ribs Two Ways](recipes/45_Oven-Baked-Spare-Ribs-Two-Ways.html)
 - [Prime Rib or Standing Rib Roast](recipes/38_Prime-Rib-or-Standing-Rib-Roast.html)
 - [Rosemary Lamb Chops](recipes/174_Rosemary-Lamb-Chops.html)
