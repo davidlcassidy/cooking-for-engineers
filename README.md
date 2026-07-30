@@ -5,7 +5,9 @@ These recipe pages were originally pulled from **[CookingForEngineers.com](https
 Full credit for the original recipe content belongs to that site and its contributors.
 
 ## GitHub Pages
-Best viewed on GitHub Pages: **https://davidlcassidy.github.io/cooking-for-engineers/**
+Best viewed on GitHub Pages
+
+**https://davidlcassidy.github.io/cooking-for-engineers/**
 
 ## Table of Contents
 - [Appetizers & Snacks](#appetizers-snacks)
